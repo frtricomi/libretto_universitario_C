@@ -1,5 +1,5 @@
 # libretto universitario in C 
-Questo progetto consiste in un sistema di gestione di un libretto universitario simulato, sviluppato in linguaggio C. Il focus principale del progetto è l'utilizzo e l'implementazione di strutture dati astratte (Abstract Data Types - ADT o moduli).
+Questo progetto universitario (sviluppato al primo anno di ing.informatica) consiste in un sistema di gestione di un libretto universitario simulato, sviluppato in linguaggio C. Il focus principale del progetto è l'utilizzo e l'implementazione di strutture dati astratte (Abstract Data Types - ADT o moduli).
 
 Gestione Studenti: Implementazione dell'ADT 'studente' e della relativa lista dinamica per la gestione dei dati anagrafici.
 Gestione Esami: Implementazione dell'ADT 'esame' e 'lista_esami' per tracciare i nomi della materia, voti e i crediti (CFU) acquisiti.
